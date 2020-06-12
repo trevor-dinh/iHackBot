@@ -1,3 +1,7 @@
+/** 
+* Defines the commmands for the Discord bot. It relies on constants.json, which defines commands.
+**/
+
 const Constants = require('./constants.json')
 
 // Executes a command based on a command word

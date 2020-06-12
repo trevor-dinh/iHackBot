@@ -1,7 +1,8 @@
-// Imports
+/** 
+* Main file for the Discord bot.
+**/
 
 const Discord = require('discord.js')
-
 const token = require('./token.json')
 const Commands = require('./commands.js')
 
